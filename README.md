@@ -65,3 +65,5 @@ To rebuild run the program again choose "R" to rebuild and put the chunks path.
 ![image](https://github.com/user-attachments/assets/565a312b-6d71-4db3-924c-ad34610745bf)
 
 And the file rebuilded its finished!
+
+### ｡°⚠︎°｡ MAYBE THE PROGRAM CAN BE INDENTIFIED AS MALWARE BY ANTVIRUS BECAUSE THIT PROGRAM MANIPULES FILES, BUT ITS CLEAN AND THE CODE IS OPEN FOR MODIFICATION, JUST DONT FORGET TO MENTION ME :D ｡°⚠︎°
