@@ -16,4 +16,4 @@ This process does not make the file lighter than it was, if this happens somethi
 
 # About the folders
 
-In the README says to organize the folder to works correctly, on the gif below you can see what you need to do!
+In the README says to organize the folder to works correctly, on the prints below you can see what you need to do!
